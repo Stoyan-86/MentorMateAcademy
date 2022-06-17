@@ -1,3 +1,4 @@
 .idea
 MentorMateAcademy.iml
 src/test/
+.gitignore
