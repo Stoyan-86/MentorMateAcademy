@@ -1,3 +1,5 @@
+package MavenTestNGPractice;
+
 import org.testng.annotations.*;
 
 public class TestNGDemo {
