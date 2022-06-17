@@ -1,0 +1,12 @@
+<suite name="Test-method Suite" parallel="methods" thread-count="5" >
+    <test name="Test-method first" group-by-instances="true">
+        <classes>
+            <class name="ExersiceCalculator"/>
+        </classes>
+    </test>
+<!--    <test name="Test-method second" group-by-instances="true">-->
+<!--        <classes>-->
+<!--            <class name="MavenTestNG.SecondTestClass"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
